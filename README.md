@@ -1,5 +1,5 @@
-# Pesquisa Tecnologia
-Trablaho da Faculdade 
+# 5 Perguntas Sobre Tecnologia
+Trabalho da Faculdade 
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -7,7 +7,7 @@ Trablaho da Faculdade
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pesquisa de Tecnologia</title>
+    <title>Pesquisa sobre Tecnologia</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
